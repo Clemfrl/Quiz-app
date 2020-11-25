@@ -9,6 +9,42 @@
     ]
   },
   {
+    "label": "What is I love you in french?",
+    "choices": [
+      { "value": "Je t'aime", "correct": true },
+      { "value": "Je te hais", "correct": false },
+      { "value": "Je te mange", "correct": false },
+      { "value": "Je t'adore", "correct": false }
+    ]
+  },
+  {
+    "label": "What is Courgette in english?",
+    "choices": [
+      { "value": "Beetroot", "correct": false },
+      { "value": "Zucchini", "correct": true },
+      { "value": "Rasberry", "correct": false },
+      { "value": "Concomber", "correct": false }
+    ]
+  },
+  {
+    "label": "What is Poule in english?",
+    "choices": [
+      { "value": "Elephant", "correct": false },
+      { "value": "Duck", "correct": false },
+      { "value": "Chat", "correct": false },
+      { "value": "Chicken", "correct": true }
+    ]
+  },
+  {
+    "label": "What is Kind in french?",
+    "choices": [
+      { "value": "Mignon", "correct": false },
+      { "value": "Doux", "correct": false },
+      { "value": "Gentil", "correct": true },
+      { "value": "Méchant", "correct": false }
+    ]
+  },
+  {
     "label": "What is Goodbye in french?",
     "choices": [
       { "value": "Au revoir", "correct": true },
