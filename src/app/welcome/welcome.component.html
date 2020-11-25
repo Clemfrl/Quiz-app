@@ -1,0 +1,9 @@
+<div class="welcome">
+  <h2>Welcome, It's Quiz time !</h2>
+</div>
+<div class="welcometext" *ngFor="let q of quiz">
+  <div class="label">{{ q.label }}</div>
+  <div class="description">{{ q.description }}</div>
+
+  <a routerLink="/{{ q.name }}" class="btn btn-primary">Select this quiz</a>
+</div>
